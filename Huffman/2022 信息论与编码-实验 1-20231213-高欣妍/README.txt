@@ -1,0 +1,4 @@
+Huffman_gxy为编码译码实现代码。
+Huffman_nbyte用于做实践题。
+testfiles里有用于测试的文件。
+结果文件和中间文件顾名思义。
